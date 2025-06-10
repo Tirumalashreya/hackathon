@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Full Stack Web Development with React",
+    "tags": ["full stack", "web", "react", "developer"]
+  },
+  {
+    "title": "Data Science and Machine Learning Bootcamp",
+    "tags": ["data scientist", "machine learning", "python"]
+  },
+  {
+    "title": "Cloud Engineering on AWS",
+    "tags": ["cloud", "aws", "devops", "cloud engineer"]
+  }
+]
