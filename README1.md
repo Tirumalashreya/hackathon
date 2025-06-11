@@ -190,10 +190,10 @@ The system calculates scores based on:
 - **Format Quality** (50%): Professional structure and contact info
 
 **Score Ranges:**
-- 90-100: Excellent ATS compatibility
-- 80-89: Good compatibility, minor improvements needed
-- 70-79: Fair compatibility, several improvements recommended
-- Below 70: Significant optimization required
+- **90-100**: Excellent ATS compatibility
+- **80-89**: Good compatibility, minor improvements needed
+- **70-79**: Fair compatibility, several improvements recommended
+- **Below 70**: Significant optimization required
 
 ## 🛠️ Advanced Configuration
 
@@ -401,16 +401,16 @@ This project is open source. Feel free to modify and distribute according to you
 
 ### Common Questions
 
-**Q: Can I use other LLM providers?**
+**Q: Can I use other LLM providers?**  
 A: Yes, but you'll need to modify the `_setup_llm()` method to use different providers like OpenAI or Anthropic.
 
-**Q: How accurate is the ATS scoring?**
+**Q: How accurate is the ATS scoring?**  
 A: The scoring provides a good baseline but should be supplemented with manual review and real ATS testing.
 
-**Q: Can I process multiple resumes at once?**
+**Q: Can I process multiple resumes at once?**  
 A: The current version processes one resume at a time. Batch processing can be added as an enhancement.
 
-**Q: What file formats are supported?**
+**Q: What file formats are supported?**  
 A: Currently supports PDF and TXT files, plus direct text input.
 
 ---
