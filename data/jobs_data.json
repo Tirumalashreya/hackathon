@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Data Scientist",
+    "company": "TechNova",
+    "location": "San Francisco, CA",
+    "skills": ["Python", "Machine Learning", "SQL", "Pandas"],
+    "salary": "$120,000"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "InnovaAI",
+    "location": "Remote",
+    "skills": ["Python", "TensorFlow", "Docker", "AWS"],
+    "salary": "$130,000"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "InsightX",
+    "location": "New York, NY",
+    "skills": ["Excel", "SQL", "Power BI", "Python"],
+    "salary": "$90,000"
+  },
+  {
+    "title": "AI Research Intern",
+    "company": "NeuroLogic",
+    "location": "Boston, MA",
+    "skills": ["PyTorch", "NLP", "Python"],
+    "salary": "$50,000"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "WebStack",
+    "location": "Austin, TX",
+    "skills": ["Node.js", "Express", "MongoDB", "Docker"],
+    "salary": "$105,000"
+  },
+  {
+  "title": "Machine Learning Engineer",
+  "company": "InnovaAI",
+  "location": "Remote",
+  "skills": ["Python", "TensorFlow", "Docker", "AWS"],
+  "salary": "$130,000"
+}
+
+]
