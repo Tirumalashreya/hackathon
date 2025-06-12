@@ -108,12 +108,8 @@ User data is processed securely and used only for resume analysis, job matching,
 ## 🤝 Contribution
 
 Want to improve this platform? Fork the repo and raise a PR. All ideas welcome!
+![_- visual selection (27)](https://github.com/user-attachments/assets/6f70eefe-580d-4bfd-8867-1887858e8235)
+
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out for collaboration or questions:
-📧 Email: careersupport@aiplatform.dev
-
----
